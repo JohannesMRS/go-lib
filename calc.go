@@ -1,5 +1,9 @@
 package golib
 
-func Sum(a, b int) int {
+func Addition(a, b int) int {
 	return a + b
+}
+
+func Subtraction(a, b int) int {
+	return a - b
 }
