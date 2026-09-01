@@ -1,7 +1,5 @@
 package golib
 
-import "fmt"
-
-func sayHello() {
-	fmt.Println("Hello world")
+func sum(a, b int) int {
+	return a + b
 }
